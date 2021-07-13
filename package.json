@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "json-server": "^0.16.3"
-  }
+  },
+  "name": "winenot",
+  "description": "My very own first (wine) API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raposogiselle/wineNot.git"
+  },
+  "author": "Giselle Raposo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raposogiselle/wineNot/issues"
+  },
+  "homepage": "https://github.com/raposogiselle/wineNot#readme"
 }
