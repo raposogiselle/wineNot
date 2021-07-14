@@ -33,6 +33,7 @@
         },
         {
             "id": 3,
+            "img": "../images/VC-rose.png",
             "name": "Veuve Clicquot Rosé",
             "type": "Champagne",
             "grape": "Pinot Noir, Meunier, Chardonnay",
