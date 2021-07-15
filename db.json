@@ -37,7 +37,7 @@
             "name": "Veuve Clicquot Rosé",
             "type": "Champagne",
             "grape": "Pinot Noir, Meunier, Chardonnay",
-            "mood": "Happy",
+            "mood": "happy",
             "Why it works": "Champagne has been the epitome of celebration for centuries, synonymous of luxury and self-indulgence. Sure to put you on a great mood.",
             "serving temp": "46-50°F",
             "description": "Espressive aromas of strawberry and very ripe wild strawberries" 
@@ -47,7 +47,7 @@
             "name": "Brunello di Montalcino",
             "type": "Tuscan Red",
             "grape": "Sangiovese",
-            "mood": "Sexy",
+            "mood": "sexy",
             "Why it works": "Red wine scent replicates human pheromones, chemicals that cause intimate responses in humans",
             "serving temp": "60-65°F",
             "description": "Bold, elegant, sexy! Hints of vanilla and cherry." 
@@ -57,7 +57,7 @@
             "name": "Petra Alto",
             "type": "Tuscan Red",
             "grape": "Sangiovese",
-            "mood": "Sexy",
+            "mood": "sexy",
             "Why it works": "When presented, this wine is usually compared to a Ferrrari. What else can we say?!",
             "serving temp": "60-65°F",
             "description": "Plum and blackbery. Sunshine and deliciousness." 
@@ -67,7 +67,7 @@
             "name": "La Justice",
             "type": "Burgundy Côte de Nuits/Red",
             "grape": "Pinot Noir",
-            "mood": "Sexy",
+            "mood": "sexy",
             "Why it works": "Red wine scent replicates human pheromones, chemicals that cause intimate responses in humans",
             "serving temp": "55-60°F",
             "description": "Aromas of morello cherries, well balanced and a silky texture." 
@@ -77,7 +77,7 @@
             "name": "Ramey",
             "type": "Pinot Noir/Red",
             "grape": "Pinot Noir",
-            "mood": "Relax",
+            "mood": "relax",
             "Why it works": "Because after a big day what's better than kick back and relax with your favorite wine",
             "serving temp": "56°F",
             "description": "A balance of elegance and richness. Bold red fruits and a hint of tobacco." 
@@ -87,7 +87,7 @@
             "name": "Vina Robles",
             "type": "Petit Sirah/Red",
             "grape": "Petite Sirah",
-            "mood": "Stressed",
+            "mood": "stressed",
             "Why it works": "Because it makes you feel as if you are getting a warm hug after a long day.",
             "serving temp": "55-60°F",
             "description": "Creamy. Dark berries and cola." 
@@ -97,7 +97,7 @@
             "name": "Santa Margherita",
             "type": "Italian White",
             "grape": "Pinot Grigio",
-            "mood": "Stressed",
+            "mood": "stressed",
             "Why it works": "A light and refreshing glass of Pinot Grigio will comfort your feelings",
             "serving temp": "45-50°F",
             "description": "Crisp, refreshing. Golden Delicious Apples" 
@@ -107,7 +107,7 @@
             "name": "Veuve Clicquot",
             "type": "Champagne",
             "grape": "Pinot Noir, Chardonnay, Meunier",
-            "mood": "Sexy",
+            "mood": "sexy",
             "Why it works": "'Come quickly, I am tasting the stars!'-Dom Perignon",
             "serving temp": "46-50°F",
             "description": "Yellow and white fruits, vanilla." 
@@ -117,7 +117,7 @@
             "name": "Far Niente",
             "type": "California White",
             "grape": "Chardonnay",
-            "mood": "Relax",
+            "mood": "relax",
             "Why it works": "creamy Chardonnay can cure that feeling. Not only is it a mood-uplifter, but it’s delicious to the core.",
             "serving temp": "48°F",
             "description": "A mouthwatering finish of aromas of melon, hazelnut, orange, and spice." 
